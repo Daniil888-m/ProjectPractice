@@ -51,7 +51,7 @@ nav {
     z-index: 100;
 }
 
-ul {
+ul, ol {
 	margin-left: 20px;
 	margin-bottom: 20px;
 }
@@ -540,4 +540,12 @@ article h3 {
 	margin-top: 1.5rem;
 	color: #7f8c8d;
 	font-size: 0.9rem;
+}
+
+nav {
+	padding-top: 30px;
+}
+
+h2 + p {
+	text-align: center;
 }
