@@ -87,8 +87,8 @@ async def check_reminders(context: ContextTypes.DEFAULT_TYPE):
 ### 3.2. Логи запуска
 
 ```log
-[INFO] Bot started successfully
-[DEBUG] Checking reminders for 5 users...
+[INFO] База данных успешно инициализирована
+[INFO]Бот успешно запущен
 ```
 
 ---
@@ -97,10 +97,10 @@ async def check_reminders(context: ContextTypes.DEFAULT_TYPE):
 
 ### Скриншоты работы
 
-![Добавление напоминания](screenshots/add_command.png)  
+![Добавление напоминания](img/add.png)  
 _Рис. 1: Пример использования команды `/add`_
 
-![Уведомление](screenshots/notification.png)  
+![Уведомление](img/work.png)
 _Рис. 2: Пример уведомления_
 
 ---
@@ -112,11 +112,6 @@ _Рис. 2: Пример уведомления_
 -   Бот корректно отправляет уведомления
 -   Поддерживает 50+ одновременных пользователей
 -   Среднее время отклика — 0.3 сек
-
-**Планы по развитию:**
-
--   Добавить повторяющиеся напоминания
--   Реализовать веб-интерфейс управления
 
 ---
 
