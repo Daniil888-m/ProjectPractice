@@ -119,9 +119,9 @@ _Рис. 2: Пример уведомления_
 
 ### Исходный код
 
-Полный код доступен в [репозитории](https://github.com/example/pills-reminder-bot).
+Полный код доступен в [репозитории](https://github.com/Daniil888-m/ProjectPractice/tree/main/task/Project).
 
 ### Контакты
 
-Автор: Иванов И.И.  
-Email: example@university.ru
+Автор: Колотыгин Д.А.  
+Email: daniil.kolotygin80@gmail.com
