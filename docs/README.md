@@ -88,7 +88,7 @@ async def check_reminders(context: ContextTypes.DEFAULT_TYPE):
 
 ```log
 [INFO] База данных успешно инициализирована
-[INFO]Бот успешно запущен
+[INFO] Бот успешно запущен
 ```
 
 ---
@@ -98,10 +98,10 @@ async def check_reminders(context: ContextTypes.DEFAULT_TYPE):
 ### Скриншоты работы
 
 ![Добавление напоминания](img/add.png)  
-_Рис. 1: Пример использования команды `/add`_
+**Рис. 1:** Пример использования команды `/add`
 
 ![Уведомление](img/work.png)
-_Рис. 2: Пример уведомления_
+**Рис. 2:** Пример уведомления
 
 ---
 
