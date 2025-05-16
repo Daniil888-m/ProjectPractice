@@ -1,0 +1,3 @@
+Ссылка на отчетный репозиторий - https://github.com/Daniil888-m/ProjectPractice
+Ссылка на проект ОВЗ - https://github.com/Edlnorog/Help-to-OVZ
+Ссылка на бота-напоминалку - https://t.me/PillReminder_Polytech_bot
